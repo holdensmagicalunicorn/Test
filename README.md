@@ -12,7 +12,7 @@ The following are required configuration files in any production environment
 * [control.properties](https://github.com/convert/control/blob/master/README.org)
   Please see the control package for control.properties configurations options.
 * [recommendation.properties](https://github.com/convert/recommmender/blob/master/README.org)
-  Please see the recommendation pacakge for recommendation.properties configurations options
+  Please see the recommendation package for recommendation.properties configurations options
 
 Convert Script Tags (setup.js and extras.js)
 --------------------------------------------
